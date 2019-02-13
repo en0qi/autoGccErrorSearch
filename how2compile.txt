@@ -1,0 +1,6 @@
+1.コンパイル方法
+コンパイルオプション -lpthread をつけてコンパイル
+
+2.実行方法
+./a.out [gcc|cc] [option] hoge.c
+例: ./a.out cc test.c 
