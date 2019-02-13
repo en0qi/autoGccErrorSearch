@@ -1,0 +1,2 @@
+# autoGccErrorSearch
+gccでコンパイルした時に出たエラーを勝手にGoogle検索してくれる
