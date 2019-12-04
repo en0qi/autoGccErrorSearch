@@ -3,4 +3,4 @@ gccでコンパイルした時に出たエラーを勝手にGoogle検索して�
 
 大学3年次の課題で作成
 
-[発表時のスライド](https://github.com/en0qi/autoGccErrorSearch/blob/master/OSnet.pdf)
+[発表時のスライド](https://github.com/krgpi/autoGccErrorSearch/blob/master/OSnet.pdf)
